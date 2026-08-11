@@ -1,8 +1,8 @@
-# Sales Analysis
+# Data Processing
 
-An Excel-based sales analysis system developed as a cumulative project for the Data Cleaning & Processing with Copilot in Excel course.
+An Excel-based data processing and analysis system developed as a cumulative project for the Data Cleaning & Processing with Copilot in Excel course.
 
-The project involves cleaning, transforming, and standardizing raw data, calculating sales metrics, and using PivotTables and visualizations to analyze sales performance across regions, products, and time periods.
+The project involves cleaning, transforming, and standardizing raw data, handling missing information, calculating sales metrics, and using PivotTables and visualizations to analyze the processed data.
 
 ## Features
 
@@ -14,19 +14,18 @@ The project involves cleaning, transforming, and standardizing raw data, calcula
 
 ## Skills Demonstrated
 
-- Data cleaning and validation
-- Data transformation
 - Data standardization
+- Data visualization
+- Data analysis
 - Microsoft Copilot
 
 ## Key Tasks
 
-- Removed duplicate records
 - Separated address components into individual columns
 - Standardized currencies and measurement units
 - Combined and reformatted data fields
 - Identified and handled missing data
-- Created PivotTables to analyze sales performance
+- Created PivotTables to analyze the processed data
 
 ## Files
 
