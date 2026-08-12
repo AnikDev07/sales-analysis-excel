@@ -14,10 +14,11 @@ The project involves cleaning, transforming, and standardizing raw data, handlin
 
 ## Skills Demonstrated
 
-- Data standardization
-- Data visualization
-- Data analysis
+- Microsoft Excel
 - Microsoft Copilot
+- Data Analysis
+- Data Processing
+- Data Transformation
 
 ## Key Tasks
 
